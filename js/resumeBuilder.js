@@ -1,3 +1,3 @@
 /*
-$("#main").append([yourname]);
+$("#main").append([Sotha]);
  */
